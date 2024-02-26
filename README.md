@@ -78,3 +78,6 @@ NODE_ENV='development'
 BASE_URL='http://localhost:3000/'
 PORT=3000
 APP_NAME='STDEV Social'
+
+## Framework
+NestJs framework TypeScript starter repository. Nest is an MIT-licensed open source project.
